@@ -6,7 +6,7 @@
 
 [![Author](https://img.shields.io/badge/author-paulobittencourt-8257E5?style=flat-square)](https://github.com/paulobittencourt)
 [![Languages](https://img.shields.io/github/languages/count/josepholiveira/podcastr?color=%238257E5&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/josepholiveira/podcastr?color=8257E5&style=flat-square)](https://github.com/josepholiveira/podcastr/stargazers)
+[![Stars](https://img.shields.io/github/stars/paulobittencourt/podcastr?color=8257E5&style=flat-square)](https://github.com/paulobittencourt/podcastr/stargazers)
 
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
