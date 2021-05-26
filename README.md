@@ -4,7 +4,7 @@
 
 ## Podcastr
 
-[![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/josepholiveira)
+[![Author](https://img.shields.io/badge/author-paulobittencourt-8257E5?style=flat-square)](https://github.com/paulobittencourt)
 [![Languages](https://img.shields.io/github/languages/count/josepholiveira/podcastr?color=%238257E5&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/josepholiveira/podcastr?color=8257E5&style=flat-square)](https://github.com/josepholiveira/podcastr/stargazers)
 
@@ -37,7 +37,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/paulobittencourt/podcastrnext.git && cd podcastr
 ```
 
 **Follow the steps below**
